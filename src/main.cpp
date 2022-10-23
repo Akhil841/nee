@@ -1,4 +1,4 @@
-#include <fstream>
+#include <ifstream>
 #include "parser.h"
 #include "evaluate.h"
 
